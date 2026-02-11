@@ -1,0 +1,19 @@
+🔐 MI PROYECTO - RESTAURANTE
+================================
+
+📌 GitHub:  https://github.com/alphaweb2008/RESTAURANTE-PRUEBA-APP-/blob/main/modify-restaurant-website%20(1).zip
+📌 Sitio web: https://tu-sitio.netlify.app
+📌 Firebase: https://console.firebase.google.com
+📌 Proyecto Firebase: restaurante-452a3
+
+🛠️ Tecnologías usadas:
+- React + Vite + Tailwind CSS + TypeScript
+- Firebase Firestore (base de datos en la nube)
+- PWA (app instalable)
+- Panel admin con contraseña
+- Sistema de reservas
+
+📝 Para pedir cambios en el futuro:
+1. Abrir chat nuevo con Claude
+2. Darle el link del repositorio de GitHub
+3. Explicar qué cambios quiero
